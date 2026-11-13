@@ -30,9 +30,9 @@ I'm growing my skills through hands-on projects in data cleaning, exploratory an
 </p>
 <p><strong>Data and ML:</strong> Pandas · NumPy · tidyverse · caret · scikit-learn · deep learning · AI agents · exploratory data analysis · linear regression<br /><strong>Backend and web:</strong> Java Servlets · JSP · Spring Boot · React · Next.js · HTML · CSS · Bootstrap<br /><strong>Databases and tools:</strong> MySQL · SQL Server · PostgreSQL · Git · GitHub · Docker · Linux · Jupyter · Vercel<br /><strong>Data visualization:</strong> trend lines · bar charts · scatter plots · correlation graphs</p>
 
-**Backend and web:** Java Servlets · JSP · Spring Boot · React · Next.js · HTML · CSS · Bootstrap
 
-**Databases and tools:** MySQL · SQL Server · PostgreSQL · Git · GitHub · Docker · Linux · Jupyter · Vercel
+
+
 
 ## Current Focus
 
