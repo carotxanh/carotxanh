@@ -38,28 +38,6 @@ I'm growing my skills through hands-on projects in data cleaning, exploratory an
 
 **Databases and tools:** MySQL · SQL Server · PostgreSQL · Git · GitHub · Docker · Linux · Jupyter · Vercel
 
-## Selected Projects
-
-### [Weather Analysis and Forecasting](https://github.com/carotxanh/DSR301-Asm)
-Explores daily weather data for Ho Chi Minh City and trains a linear regression model to estimate next-day average temperature. Includes data cleaning, exploratory analysis, visualizations, and model evaluation.
-
-`R` `Jupyter` `tidyverse` `caret` `corrplot` `Linear Regression`
-
-### [Airline Ticket Booking System](https://github.com/carotxanh/Workshop)
-A Java web application for flight search, seat selection, booking management, and payment workflows, built with Servlets and JSP.
-
-`Java` `Servlets` `JSP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-### [ReadHub](https://github.com/carotxanh/ISP302-Project)
-A team project for a multi-vendor online bookstore, with a Java/Spring backend, web interface, database integration, and payment and AI service integrations described in the project README.
-
-`Java` `Spring Boot` `HTML` `CSS` `JavaScript` `SQL Server` `PostgreSQL`
-
-### [Dependency Security Test Fixture](https://github.com/carotxanh/test-cve)
-A small Python fixture for testing dependency and vulnerable-function scanning workflows. It is intended for local scanner testing, not deployment.
-
-`Python` `Dependency Analysis` `Security Testing`
-
 ## Current Focus
 
 - Strengthening data analysis and machine learning fundamentals
