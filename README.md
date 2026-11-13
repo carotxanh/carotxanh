@@ -24,11 +24,11 @@ I'm growing my skills through hands-on projects in data cleaning, exploratory an
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&amp;logo=greensock&amp;logoColor=111111" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-8E44AD?style=flat" alt="Deep Learning — currently learning" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Learning-2D6A4F?style=flat" alt="AI Agents — currently learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/AI%20Agents-2D6A4F?style=flat" alt="AI Agents" />
   <img src="https://img.shields.io/badge/Data%20Visualization-Charts-1F6FEB?style=flat" alt="Data visualization and charts" />
 </p>
-**Data and ML:** Pandas · NumPy · tidyverse · caret · scikit-learn · exploratory data analysis · data visualization · linear regression
+<p><strong>Data and ML:</strong> Pandas · NumPy · tidyverse · caret · scikit-learn · deep learning · AI agents · exploratory data analysis · linear regression<br /><strong>Backend and web:</strong> Java Servlets · JSP · Spring Boot · React · Next.js · HTML · CSS · Bootstrap<br /><strong>Databases and tools:</strong> MySQL · SQL Server · PostgreSQL · Git · GitHub · Docker · Linux · Jupyter · Vercel<br /><strong>Data visualization:</strong> trend lines · bar charts · scatter plots · correlation graphs</p>
 
 **Backend and web:** Java Servlets · JSP · Spring Boot · React · Next.js · HTML · CSS · Bootstrap
 
@@ -37,7 +37,7 @@ I'm growing my skills through hands-on projects in data cleaning, exploratory an
 ## Current Focus
 
 - Strengthening data analysis and machine learning fundamentals
-- Exploring deep learning and AI agent systems
+- Applying deep learning and AI agent skills in practical projects
 - Practicing data visualization with trend lines, bar charts, scatter plots, and correlation graphs
 - Building applications that connect data, APIs, and databases
 - Improving model evaluation and communicating results clearly
